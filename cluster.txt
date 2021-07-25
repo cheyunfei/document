@@ -1,5 +1,0 @@
-now,wo kown if we add the other side of the circle of PoindCloud,we can find a closed space at 2 dimensions.
-
-so ,we can use the feature to cluste PointCloud to a stuff . Then we can deal with many thing were clust to the same object.
-
-based on line chart to cluster,detect,track
